@@ -1,9 +1,10 @@
 {
   "name": "thanh-pj1-ui-lib",
-  "version": "1.0.8",
+  "version": "1.0.17",
   "description": "",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "type":"commonjs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],

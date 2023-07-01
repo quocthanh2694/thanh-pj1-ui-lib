@@ -1,4 +1,4 @@
-import './src/pr1-input';
+import './pr1-input';
 
 const helloWorld = () => {
     console.log('@@Hello world from library')
