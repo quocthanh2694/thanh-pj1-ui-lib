@@ -1,6 +1,6 @@
 {
   "name": "thanh-pj1-ui-lib",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "",
   "type": "commonjs",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "npm-login": "npm adduser",
-    "deploy": "tsc & yarn publish",
+    "publish:lib": "tsc & yarn publish",
     "link-pj": "tsc & npm link",
     "pack-pj": "npm pack",
     "build": "tsc",
